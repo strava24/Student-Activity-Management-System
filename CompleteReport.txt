@@ -1,0 +1,126 @@
+-- Complete Report with Student Progress (2024) Computer Science / Software Engineering -- 
+
+Student Name                                 - Eren Yeager
+Student ID                                   - w2024000
+Marks & Grade for Software Development 2     - 96.0 / A
+Marks & Grade for Trends in Computer Science - N/A
+Marks & Grade for Web Design & development   - N/A
+The Total Marks                              - 96.0
+The Average Marks                            - 96.0
+The Final Grade                              - Distinction
+Completed exams in the following modules :
+ - Software Development 2 (4COSC010C.3)
+
+Student Name                                 - Martin Roy
+Student ID                                   - w2024007
+Marks & Grade for Software Development 2     - 85.0 / A
+Marks & Grade for Trends in Computer Science - 86.0 / A
+Marks & Grade for Web Design & development   - 87.0 / A
+The Total Marks                              - 258.0
+The Average Marks                            - 86.0
+The Final Grade                              - Distinction
+Completed exams in the following modules :
+ - Software Development 2 (4COSC010C.3)
+ - Trends in Computer Science (4COSC008C.3)
+ - Web Design & development (4COSC011C.3)
+
+Student Name                                 - Roranoa Zoro
+Student ID                                   - w2024005
+Marks & Grade for Software Development 2     - 52.0 / S
+Marks & Grade for Trends in Computer Science - 62.0 / C
+Marks & Grade for Web Design & development   - 85.0 / A
+The Total Marks                              - 199.0
+The Average Marks                            - 66.33333333333333
+The Final Grade                              - Pass
+Completed exams in the following modules :
+ - Software Development 2 (4COSC010C.3)
+ - Trends in Computer Science (4COSC008C.3)
+ - Web Design & development (4COSC011C.3)
+
+Student Name                                 - Naruto Uzumaki
+Student ID                                   - w2024001
+Marks & Grade for Software Development 2     - 62.0 / C
+Marks & Grade for Trends in Computer Science - 65.0 / B
+Marks & Grade for Web Design & development   - 45.0 / S
+The Total Marks                              - 172.0
+The Average Marks                            - 57.333333333333336
+The Final Grade                              - Pass
+Completed exams in the following modules :
+ - Software Development 2 (4COSC010C.3)
+ - Trends in Computer Science (4COSC008C.3)
+ - Web Design & development (4COSC011C.3)
+
+Student Name                                 - Rrrrrr Zzzzzz
+Student ID                                   - w2024002
+Marks & Grade for Software Development 2     - 60.0 / C
+Marks & Grade for Trends in Computer Science - 40.0 / S
+Marks & Grade for Web Design & development   - 30.0 / F
+The Total Marks                              - 130.0
+The Average Marks                            - 43.333333333333336
+The Final Grade                              - Pass
+Completed exams in the following modules :
+ - Software Development 2 (4COSC010C.3)
+ - Trends in Computer Science (4COSC008C.3)
+ - Web Design & development (4COSC011C.3)
+
+Student Name                                 - Hello World
+Student ID                                   - w2024010
+Marks & Grade for Software Development 2     - N/A
+Marks & Grade for Trends in Computer Science - N/A
+Marks & Grade for Web Design & development   - N/A
+The Total Marks                              - N/A
+The Average Marks                            - N/A
+The Final Grade                              - N/A
+Haven't completed exams in any modules yet!
+
+Student Name                                 - Abc Xyz
+Student ID                                   - w2024009
+Marks & Grade for Software Development 2     - N/A
+Marks & Grade for Trends in Computer Science - N/A
+Marks & Grade for Web Design & development   - N/A
+The Total Marks                              - N/A
+The Average Marks                            - N/A
+The Final Grade                              - N/A
+Haven't completed exams in any modules yet!
+
+Student Name                                 - Strava Fernando
+Student ID                                   - w2024008
+Marks & Grade for Software Development 2     - N/A
+Marks & Grade for Trends in Computer Science - N/A
+Marks & Grade for Web Design & development   - N/A
+The Total Marks                              - N/A
+The Average Marks                            - N/A
+The Final Grade                              - N/A
+Haven't completed exams in any modules yet!
+
+Student Name                                 - Don Zoyza
+Student ID                                   - w2024006
+Marks & Grade for Software Development 2     - N/A
+Marks & Grade for Trends in Computer Science - N/A
+Marks & Grade for Web Design & development   - N/A
+The Total Marks                              - N/A
+The Average Marks                            - N/A
+The Final Grade                              - N/A
+Haven't completed exams in any modules yet!
+
+Student Name                                 - Monkey Luffy
+Student ID                                   - w2024004
+Marks & Grade for Software Development 2     - N/A
+Marks & Grade for Trends in Computer Science - N/A
+Marks & Grade for Web Design & development   - N/A
+The Total Marks                              - N/A
+The Average Marks                            - N/A
+The Final Grade                              - N/A
+Haven't completed exams in any modules yet!
+
+Student Name                                 - Dilani Villavarayen
+Student ID                                   - w2024003
+Marks & Grade for Software Development 2     - N/A
+Marks & Grade for Trends in Computer Science - N/A
+Marks & Grade for Web Design & development   - N/A
+The Total Marks                              - N/A
+The Average Marks                            - N/A
+The Final Grade                              - N/A
+Haven't completed exams in any modules yet!
+
+Note that average is calculated based on the number of modules a student has completed

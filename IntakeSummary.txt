@@ -1,0 +1,19 @@
+-- Intake Summary Report (2024) Computer Science / Software Engineering -- 
+
+The number of students registered to the System                                      - 8
+
+ - Software Development 2 (4COSC010C.3)
+The number of students who have completed the exams for Software Development 2       - 4
+The number of students who passed Software Development 2                             - 4
+The average marks for Software Development 2                                         - 73.75
+
+ - Trends in Computer Science (4COSC008C.3)
+The number of students who have completed the exams for Trends in Computer Science   - 3
+The number of students who passed Trends in Computer Science                         - 3
+The average marks for Trends in Computer Science                                     - 71.0
+
+ - Web Design & development (4COSC011C.3)
+The number of students who have completed the exams for Web Design & development     - 3
+The number of students who passed Web Design & development                           - 3
+The average marks for Web Design & development                                       - 72.33333333333333
+
